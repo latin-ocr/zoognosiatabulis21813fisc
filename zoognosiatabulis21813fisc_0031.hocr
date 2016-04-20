@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./zoognosiatabulis21813fisc_0031.png"; bbox 0 0 2018 3638; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 377 1156 1429 1305">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 377 1156 1429 1305">
+     <span class='ocr_line' id='line_1_1' title="bbox 377 1156 1429 1305; baseline 0 -6"><span class='ocrx_word' id='word_1_1' title='bbox 377 1156 1429 1305; x_wconf 77' lang='lat' dir='ltr'><strong>ZOOGNOSIA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 25 1476 1778 1558">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 25 1476 1778 1558">
+     <span class='ocr_line' id='line_1_2' title="bbox 25 1476 1778 1558; baseline 0.001 -3"><span class='ocrx_word' id='word_1_2' title='bbox 25 1481 450 1558; x_wconf 86' lang='lat' dir='ltr'><strong>TABULIS</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 504 1481 1087 1555; x_wconf 86' lang='lat' dir='ltr'><strong>SYNOPTICIS</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1149 1476 1778 1556; x_wconf 74' lang='lat' dir='ltr'><strong>ILLUSTRATA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 668 1673 1212 1784">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 668 1673 1212 1784">
+     <span class='ocr_line' id='line_1_3' title="bbox 668 1673 1212 1784; baseline -0.007 -4"><span class='ocrx_word' id='word_1_5' title='bbox 668 1673 1212 1784; x_wconf 29' lang='lat' dir='ltr'>AUCTORE*</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 460 1972 1337 2063">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 460 1972 1337 2063">
+     <span class='ocr_line' id='line_1_4' title="bbox 460 1972 1337 2063; baseline -0.002 -3"><span class='ocrx_word' id='word_1_6' title='bbox 460 1972 573 2060; x_wconf 82' lang='lat' dir='ltr'><strong>G.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 658 1972 1337 2063; x_wconf 86' lang='lat' dir='ltr'><strong>FISCHER.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
